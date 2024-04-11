@@ -1,0 +1,25 @@
+{
+    "RPC_LIST_HTTPS": [
+        "https://mainnet.infura.io/v3/<YOUE_INFURA_PROJECT_ID>",
+        "https://ethereum.blockpi.network/v1/rpc/public",
+        "https://eth-mainnet.public.blastapi.io",
+        "https://cloudflare-eth.com",
+        "https://eth.rpc.blxrbdn.com"
+    ],
+    "SEPOLIA_RPC_LIST_HTTPS": [
+        "https://rpc-sepolia.rockx.com",
+        "https://ethereum-sepolia.blockpi.network/v1/rpc/public",
+        "https://eth-sepolia.public.blastapi.io",
+        "https://sepolia.drpc.org"
+    ],
+    "SEPOLIA_RPC_LIST_WSS": [
+        "wss://ethereum-sepolia-rpc.publicnode.com"
+    ],
+    "RPC_LIST_WSS": [
+        "wss://ethereum-rpc.publicnode.com"
+    ],
+    "ACCOUNT_LIST_PRIVATE_KEY": [
+        ""
+    ]
+}
+
