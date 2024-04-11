@@ -12,6 +12,7 @@ Welcome to the Python Ethereum Networks Automation Demo repository! This resourc
   - [Introduction 📖](#introduction-)
   - [Table of Contents 📚](#table-of-contents-)
   - [Setup Instructions 🛠️](#setup-instructions-️)
+  - [License 📄](#license-)
 
 ## Setup Instructions 🛠️
 
@@ -64,6 +65,7 @@ To get started with this demo, follow these steps to set up your environment:
     }
    ```
    <mark>BEWARE: Don't commit your account private key or you will make your crypto account in risk!</mark>
+
 <!-- 
 ## Getting Started 🌟
 
@@ -72,8 +74,8 @@ To get started with this demo, follow these steps to set up your environment:
 ## Contributing 🤝
 
 [Guidelines for contributing to the repository]
+-->
 
 ## License 📄
 
-[Information about the license]
--->
+Please refer to the `LICENSE` document
